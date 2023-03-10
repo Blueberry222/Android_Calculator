@@ -20,7 +20,7 @@
     <string name="subtract">-</string>
     <string name="point">.</string>
     <string name="equals">=</string>
-    <string name="parantheses">()</string>
+    <string name="parantheses">( )</string>
     <string name="exponential">^</string>
     <string name="plus_minus">±</string>
 
